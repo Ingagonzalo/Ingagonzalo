@@ -3,7 +3,7 @@
 
 ### >_  About me:
 
-I'm a Junior Frontend Developer and UX/UI Design.
+I'm a Junior Frontend Web Developer and UX/UI Design.
 
 Currently, I am studying:mortar_board: fullstack development, but I am very attracted to the Frontend Development area, since it combines my two passions, design🖌 and development🖥🖱.
 
